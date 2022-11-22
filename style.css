@@ -18,6 +18,6 @@ em strong {
     color: rgb(25, 0, 255);
 }
 
-img {
-    image-resolution: 1920 1080;
+p {
+    font-size: 15;
 }

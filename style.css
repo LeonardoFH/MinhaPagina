@@ -14,10 +14,16 @@ h1 {
         text-align: center;
     }
 
-em strong {
+em  {
     color: rgb(25, 0, 255);
 }
 
 p {
     font-size: large;
 }
+strong {
+    color: rgb(133, 3, 255);
+}
+
+ 
+

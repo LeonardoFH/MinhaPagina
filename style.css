@@ -32,6 +32,11 @@ em  {
 p {
     font-size: 20px;
 }
+
+#F{
+    color: goldenrod;
+}
+
 strong {
     color: rgb(16, 3, 255);
 }

@@ -20,6 +20,10 @@ h1 {
     width: 100%;
 }
 
+#Left {
+    text-align: left;
+}
+
 em  {
     color: rgb(25, 0, 255);
 }

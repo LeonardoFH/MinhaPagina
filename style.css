@@ -19,10 +19,7 @@ h1 {
 
 #right {
     width: 25%;
-}
-
-#Left {
-    text-align: left;
+    height: 400px;
 }
 
 em  {

@@ -10,7 +10,9 @@ p {
 h1 { 
     text-align: center }
 
-#FM1
+#FM1 {
+    width: 100%;
+}
 
     h2 {
         text-align: center;

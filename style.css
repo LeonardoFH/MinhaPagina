@@ -14,7 +14,9 @@ p {
     width: 100%;
     }
 #BRD {
-    border: 10px solid gold;
+    border: 10px solid rgb(255, 242, 0);
+    margin-left: 35%;
+    margin-right: 35%;
 }
 
 h1 { 

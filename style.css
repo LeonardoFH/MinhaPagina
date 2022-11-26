@@ -13,6 +13,9 @@ p {
 #right {
     width: 100%;
     }
+#BRD {
+    border: 10px solid gold;
+}
 
 h1 { 
     text-align: center }

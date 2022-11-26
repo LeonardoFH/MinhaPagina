@@ -18,9 +18,8 @@ h1 {
     }
 
 #right {
-    width: 25%;
-    height: 400px;
-}
+    width: 100%;
+    
 
 em  {
     color: rgb(25, 0, 255);
